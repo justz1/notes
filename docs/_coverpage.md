@@ -4,5 +4,5 @@
 
 * 努力学习中...
 
-[GitHub](https://github.com/lxs098)
+[GitHub](https://github.com/justz1)
 [Get Started](README.md)
